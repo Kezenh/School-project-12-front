@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/School-project-12-front/static/css/main.6a4d87c5.css",
-    "main.js": "/School-project-12-front/static/js/main.af115b53.js",
+    "main.js": "/School-project-12-front/static/js/main.0ae6e3f2.js",
     "static/media/logo.png": "/School-project-12-front/static/media/logo.231a6da56bd8a5133afa.png",
     "index.html": "/School-project-12-front/index.html",
     "main.6a4d87c5.css.map": "/School-project-12-front/static/css/main.6a4d87c5.css.map",
-    "main.af115b53.js.map": "/School-project-12-front/static/js/main.af115b53.js.map"
+    "main.0ae6e3f2.js.map": "/School-project-12-front/static/js/main.0ae6e3f2.js.map"
   },
   "entrypoints": [
     "static/css/main.6a4d87c5.css",
-    "static/js/main.af115b53.js"
+    "static/js/main.0ae6e3f2.js"
   ]
 }
