@@ -4,7 +4,7 @@
  * @return { Promise }
  */
 async function fetchUserDatas(userId) {
-    return fetch("http://localhost:4000/user/" + userId)
+    return fetch("https://school-project-12-back.onrender.com/user/" + userId)
     .then((response) => response.json())
     .then((res) => res.data)
     .catch((err) => console.log(err))
